@@ -1,0 +1,25 @@
+{
+  "notices": [
+    {
+      "file": "Qt-LGPL-3.0-only.txt",
+      "url": "https://code.qt.io/cgit/qt/qtbase.git/plain/LICENSES/LGPL-3.0-only.txt?h=v6.8.2"
+    },
+    {
+      "file": "Qt-GPL-3.0-only.txt",
+      "url": "https://code.qt.io/cgit/qt/qtbase.git/plain/LICENSES/GPL-3.0-only.txt?h=v6.8.2"
+    },
+    {
+      "file": "Qt-GPL-exception-1.0.txt",
+      "url": "https://code.qt.io/cgit/qt/qtbase.git/plain/LICENSES/Qt-GPL-exception-1.0.txt?h=v6.8.2"
+    },
+    {
+      "file": "PySide-LGPL-3.0-only.txt",
+      "url": "https://code.qt.io/cgit/pyside/pyside-setup.git/plain/LICENSES/LGPL-3.0-only.txt?h=v6.8.2.1"
+    }
+  ],
+  "source": [
+    "https://code.qt.io/cgit/qt/qtbase.git/?h=v6.8.2",
+    "https://code.qt.io/cgit/pyside/pyside-setup.git/?h=v6.8.2.1"
+  ],
+  "replacement": "Qt DLLs are separate files in _internal/PySide6. No restriction on debugging modifications to LGPL components is imposed by the application licence."
+}
